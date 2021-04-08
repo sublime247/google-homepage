@@ -77,12 +77,12 @@ ul li{
     padding: 0.8em;
 }
 .foot-middle{
-    padding: 1em;
+    padding: 0.8em;
+    margin: 12px;
 }
 .foot-right{
-    padding: 0.5em;
+    margin: 20px 8px 8px 12px;
 }
 .foot-right a{
-    padding-top: 1.4em;
-    padding: 8px;
+    padding: 1.5em;
 }
